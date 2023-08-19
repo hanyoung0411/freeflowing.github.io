@@ -1,0 +1,7 @@
+[submodule "freeflow_web/themes/github.com/MihaiValentin/lunr-languages"]
+    path = freeflow_web/themes/github.com/MihaiValentin/lunr-languages
+    url = https://github.com/MihaiValentin/lunr-languages.git
+
+[submodule "freeflow_web/themes/github.com/olivernn/lunr.js"]
+    path = freeflow_web/themes/github.com/olivernn/lunr.js
+    url = https://github.com/olivernn/lunr.js.git
